@@ -1,16 +1,21 @@
 import java.io.*;
+import java.util.StringTokenizer;
 
 public class Tetromino_14500 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        String[] PaperSize = br.readLine().split(" ");
-        int N = Integer.parseInt(PaperSize[0]); //세로 크기
-        int M = Integer.parseInt(PaperSize[1]); //가로 크기
+        StringTokenizer st = new StringTokenizer(br.readLine());
+
+        int N = Integer.parseInt(st.nextToken()); //세로 크기
+        int M = Integer.parseInt(st.nextToken()); //가로 크기
 
         int[][] nums = new int[N][M];
 
         for(int i = 0; i < N; i++) {
-            nums = Integer.parseInt(br.readLine().split(" "));
+            st = new StringTokenizer(br.readLine());
+            for(int j = 0; j < M; j++) {
+                nums[i][j] = Integer.parseInt(st.nextToken());
+            }
         }
 
         int imsi = 0;
@@ -102,5 +107,6 @@ public class Tetromino_14500 {
                     max = imsi;
             }
         }
+        System.out.println(max);
     }
 }
