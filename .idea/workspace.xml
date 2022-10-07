@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1ee4682-f350-4bae-9c6b-8977cf57c17f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Algorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Build_7568.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/CandyGame_3085.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Divisor_1037.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Hex_1550.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/KaingCalendar_6064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/One_4375.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/RewardHunter_15953.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/SevenKids_2309.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Sorting_2750.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/Tetromino_14500.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Algorithm/WriteNumbers_1748.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Build_7568.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/CandyGame_3085.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Divisor_1037.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Hex_1550.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/KaingCalendar_6064.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/OneTwoThree_9095.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/One_4375.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/RewardHunter_15953.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/SevenKids_2309.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Sorting_2750.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/Tetromino_14500.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/WriteNumbers_1748.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="26QyIGZ6jQhXetTLwXUjrtO9Zuv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1ee4682-f350-4bae-9c6b-8977cf57c17f" name="Changes" comment="" />
+      <created>1647370023668</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647370023668</updated>
+    </task>
+    <servers />
+  </component>
+</project>
